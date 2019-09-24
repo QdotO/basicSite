@@ -1,0 +1,19 @@
+import React from 'react';
+
+export const Home = () => (
+    <div>
+        <p>Whats up, THIS Home</p>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eleifend tortor in ligula iaculis pulvinar. Vivamus mattis purus eget fringilla vehicula. Suspendisse lacus dolor, mattis ac dui sit amet, molestie ornare dolor. Nulla vitae vehicula est, vitae rhoncus nunc. In hac habitasse platea dictumst. Donec nisl mi, rutrum sed mi ornare, pharetra hendrerit libero. Vestibulum id nisi enim. Curabitur enim sapien, vehicula id auctor quis, porta ac metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin ornare tincidunt imperdiet. Nunc sagittis venenatis orci quis vehicula. Ut ante neque, molestie nec blandit vitae, vehicula quis erat.
+    
+    Nunc cursus ex a ligula hendrerit consequat. Quisque dictum odio a varius gravida. Nunc libero eros, ultricies sed magna ac, aliquam sodales justo. Curabitur mollis velit eu eleifend finibus. Nulla facilisi. Vivamus nec ante nisi. Sed ornare odio sit amet porta interdum. Donec vel consequat nisi. Nulla gravida est ut pharetra placerat. Maecenas consequat urna mollis, finibus ex id, hendrerit dolor. Proin tempor libero ut dolor tristique, vitae pellentesque turpis maximus. Donec enim dolor, maximus sed tortor vel, vestibulum dapibus tellus.
+    
+    Vivamus eget quam ex. Pellentesque nibh felis, porta sit amet diam in, ullamcorper scelerisque dolor. Mauris varius dapibus vehicula. Donec id tellus ante. Fusce vulputate purus id ex tristique ornare. Nulla non nisi nulla. Vestibulum tempus augue sed metus tempor molestie. Integer facilisis ultrices risus, vitae condimentum ex ultricies id. Curabitur placerat quam dapibus nisl blandit, sed maximus odio tincidunt. Fusce leo mauris, dignissim vitae ultrices non, euismod vitae ligula. Vestibulum commodo massa at neque semper hendrerit. Aenean in quam ac diam consectetur fermentum. Nam vitae elit condimentum, porttitor quam et, porta felis. Nullam vulputate urna odio, et dictum mauris sodales vel. Ut quis porttitor mi, eu lobortis diam.
+    
+    Praesent in tortor imperdiet, porttitor mi at, blandit augue. Fusce ultrices eros at scelerisque iaculis. Maecenas lacinia interdum eros, in cursus mauris viverra vel. Vivamus malesuada orci quis tristique imperdiet. Quisque lacus arcu, efficitur ac faucibus eget, pellentesque quis eros. Nulla at erat vestibulum, tempus orci non, hendrerit massa. Vestibulum mollis, ante vitae vestibulum laoreet, nulla sem tincidunt ligula, sed bibendum eros velit vitae turpis. Vivamus quis gravida est. Maecenas ante metus, faucibus vel mollis nec, ultricies eget lectus. Nam bibendum pulvinar hendrerit. Quisque sit amet urna sapien. Praesent quis turpis commodo, tempus nibh ut, convallis eros. In a pellentesque nisl. Integer dolor justo, pulvinar at rutrum non, dapibus et dolor. Mauris in molestie dolor. Sed tincidunt tellus quis dignissim elementum.
+    
+    Quisque tristique neque orci, pulvinar vehicula tortor dapibus ut. Nullam dapibus tellus at eros auctor lacinia. Donec erat mi, consectetur vitae fringilla nec, placerat vel sem. Vivamus auctor ex elit, non imperdiet quam cursus in. Pellentesque eget ligula molestie, fermentum ex eget, tristique mi. Quisque sodales eget turpis sed gravida. Duis pulvinar nibh eget velit ornare luctus. Vivamus pharetra nisl id placerat vehicula. Nullam porttitor, turpis a maximus accumsan, eros nulla volutpat magna, a congue turpis metus ut mi. Quisque quis rutrum eros. Suspendisse consequat elit libero, eu commodo sapien sollicitudin ut. Nullam volutpat quam ante. Vestibulum ut turpis tristique, pharetra libero non, porttitor sapien. Maecenas velit mi, consectetur ut orci eu, iaculis pellentesque lectus. In hac habitasse platea dictumst.
+        </p>
+    </div>
+)
+
